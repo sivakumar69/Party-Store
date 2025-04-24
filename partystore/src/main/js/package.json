@@ -22,7 +22,7 @@
     "react-fabricjs": "^0.1.6",
     "react-font-picker": "^1.1.8",
     "react-images-upload": "^1.2.3",
-    "react-router-dom": "^4.3.1",
+    "react-router-dom": "^7.5.2",
     "react-scripts": "2.0.5"
   },
   "scripts": {
